@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente RealExampleRef Muestra el componente Quotes 1`] = `
+<div>
+  <h4>
+    REAL EXAMPLE USEREF
+  </h4>
+  <Quotes />
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Mostrar/Desmontar
+  </button>
+</div>
+`;
+
+exports[`Pruebas en el componente RealExampleRef No muestra el componente Quotes 1`] = `
+<div>
+  <h4>
+    REAL EXAMPLE USEREF
+  </h4>
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Mostrar/Desmontar
+  </button>
+</div>
+`;

@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente TodoList Foto del componente. 1`] = `
+<section
+  className="col-7"
+>
+  <ul
+    className="list-group text-info"
+  >
+    <Memo()
+      handleDelete={[MockFunction]}
+      handleToggle={[MockFunction]}
+      index={0}
+      key="1"
+      todo={
+        Object {
+          "desc": "Aprender React",
+          "done": false,
+          "id": 1,
+        }
+      }
+    />
+    <Memo()
+      handleDelete={[MockFunction]}
+      handleToggle={[MockFunction]}
+      index={1}
+      key="2"
+      todo={
+        Object {
+          "desc": "Aprender Vue",
+          "done": false,
+          "id": 2,
+        }
+      }
+    />
+  </ul>
+</section>
+`;

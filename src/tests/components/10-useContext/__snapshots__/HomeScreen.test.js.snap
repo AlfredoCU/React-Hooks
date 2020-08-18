@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en HomeScreen Foto del componente 1`] = `
+<div>
+  <p>
+    HomeScreen
+  </p>
+  <p>
+    {
+   "name": "Alfred",
+   "email": "alf@gmail.com"
+}
+  </p>
+</div>
+`;

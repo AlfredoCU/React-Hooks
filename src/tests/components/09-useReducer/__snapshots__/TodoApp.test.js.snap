@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en el componente TodoApp Foto al componente 1`] = `
+<Fragment>
+  <Memo()
+    count={0}
+  />
+  <main
+    className="container row col-12"
+  >
+    <Memo()
+      handleDelete={[Function]}
+      handleToggle={[Function]}
+      todos={Array []}
+    />
+    <Memo()
+      handleAdd={[Function]}
+    />
+  </main>
+</Fragment>
+`;

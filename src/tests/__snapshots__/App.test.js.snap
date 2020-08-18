@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas al componente App Foto del componente 1`] = `
+<div
+  className="app"
+>
+  <header
+    className="app-header"
+  >
+    <h1>
+      Hooks
+    </h1>
+  </header>
+  <main>
+    <MainApp />
+  </main>
+</div>
+`;

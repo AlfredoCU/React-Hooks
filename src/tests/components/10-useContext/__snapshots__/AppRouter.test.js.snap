@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en AppRouter Foto del componente 1`] = `
+<div>
+  <nav
+    className="navbar navbar-expand-lg navbar-light bg-light"
+  >
+    <a
+      aria-current="page"
+      className="navbar-brand active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Navbar
+    </a>
+    <button
+      aria-controls="navbarNavAltMarkup"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+      className="navbar-toggler"
+      data-target="#navbarNavAltMarkup"
+      data-toggle="collapse"
+      type="button"
+    >
+      <span
+        className="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      className="collapse navbar-collapse"
+      id="navbarNavAltMarkup"
+    >
+      <div
+        className="navbar-nav"
+      >
+        <a
+          aria-current="page"
+          className="nav-item nav-link active"
+          href="/"
+          onClick={[Function]}
+          style={Object {}}
+        >
+          Home
+        </a>
+        <a
+          aria-current={null}
+          className="nav-item nav-link"
+          href="/about"
+          onClick={[Function]}
+        >
+          About
+        </a>
+        <a
+          aria-current={null}
+          className="nav-item nav-link"
+          href="/login"
+          onClick={[Function]}
+        >
+          Login
+        </a>
+      </div>
+    </div>
+  </nav>
+  <div>
+    <p>
+      HomeScreen
+    </p>
+    <p>
+      {
+   "id": 7557,
+   "name": "Alfredo",
+   "email": "alfred@gmail.com"
+}
+    </p>
+  </div>
+</div>
+`;

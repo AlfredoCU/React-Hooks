@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del componente Quotes Foto del componente Cargado... 1`] = `
+<div>
+  <h4>
+    API BREAKING BAD
+  </h4>
+  <div
+    className="alert alert-info text-center"
+  >
+    Cargando...
+  </div>
+</div>
+`;
+
+exports[`Prueba del componente Quotes Foto del componente con data 1`] = `
+<div>
+  <h4>
+    API BREAKING BAD
+  </h4>
+  <div>
+    <p>
+      1
+    </p>
+    <p
+      className="blockquote"
+    >
+      Hello World!
+    </p>
+    <em
+      className="blockquote-footer mb-2"
+    >
+      Alfredo
+    </em>
+    <div
+      className="mb-2"
+    >
+      <button
+        className="btn btn-primary mr-2"
+        onClick={[Function]}
+      >
+        Atras
+      </button>
+      <button
+        className="btn btn-primary mr-2"
+        onClick={[Function]}
+      >
+        Reset
+      </button>
+      <button
+        className="btn btn-primary mr-2"
+        onClick={[Function]}
+      >
+        Adelante
+      </button>
+    </div>
+  </div>
+</div>
+`;
